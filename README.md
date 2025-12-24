@@ -43,3 +43,10 @@
 
 📫 **Contact me**
 - Email: mbembaleegrace@gmail.com
+
+- ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lee-mbemba_USERNAME&show_icons=true&theme=default)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-mbemba_USERNAME&layout=compact)
+
