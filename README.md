@@ -5,6 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Learning](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge)
 
