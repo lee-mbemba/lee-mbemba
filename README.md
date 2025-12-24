@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Grace Lee Mbemba
 
-<!--
-**lee-mbemba/lee-mbemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior web developer 
+🌍 Passionate about the web and new technologies  
+🚀 Goal: to become an expert developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I use
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- python
+- Git & GitHub
+
+---
+
+## 📂 Projects
+🔹 Personal portfolio (in progress)  
+🔹 Mini HTML/CSS projects  
+🔹 PHP learning scripts  
+
+---
+
+## 📈 Goals for 2025
+- Publish at least 10 projects on GitHub
+- Create my online portfolio
+- Work as a freelancer/remotely
+
+---
+
+📫 **Contact me**
+- Email: mbembaleegrace@gmail.com
